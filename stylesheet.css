@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Roboto:wght@100&display=swap');
+
+h1
+{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2
+{
+
+    text-align: center;
+}
+
+
+body
+{
+    background-color: #101820FF;
+
+    font-family: 'Gravitas One', cursive;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+
+p
+{
+    color: white;
+    font-size: 15px;
+    text-align:center;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+.targetA
+{
+    color: #F2AA4CFF;
+    font-size: 20px;
+}
